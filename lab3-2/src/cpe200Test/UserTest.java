@@ -1,5 +1,6 @@
-package cpe200;
+package cpe200Test;
 
+import cpe200.User;
 import org.junit.Before;
 import org.junit.Test;
 
