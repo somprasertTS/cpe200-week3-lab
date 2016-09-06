@@ -48,7 +48,7 @@ public class UserTest {
 
     @Test
     public void getUserName() throws Exception {
-        user.setUsername("harrypotter");
+        user.setUserName("harrypotter");
         assertEquals("harrypotter", user.getUserName());
     }
 
